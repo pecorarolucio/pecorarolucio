@@ -4,9 +4,8 @@ Estudiante avanzado de Ingeniería en Sistemas de Información, apasionado por e
 
 ### 🔭 Sobre mí
 - 🏢 Actualmente estudio en la: **Universidad Tecnológica Nacional** en **Rosario**
-- Mi enfoque técnico se divide en dos grandes áreas:
-*   ☕ **Desarrollo Backend:** Creación de aplicaciones robustas y escalables utilizando **Java** y **C#**.
-*   🤖 **Ciencia de Datos e IA:** Análisis de datos y entrenamiento de modelos de **Machine Learning** utilizando **Python**, **IBM SSPS (Modeler y Statistics)**.
+- ☕ **Desarrollo Backend:** Creación de aplicaciones robustas y escalables utilizando **Java** y **C#**.
+- 🤖 **Ciencia de Datos e IA:** Análisis de datos y entrenamiento de modelos de **Machine Learning** utilizando **Python**, **IBM SSPS (Modeler y Statistics)**.
 
 ---
 
