@@ -1,6 +1,9 @@
 # ¡Hola, soy Lucio! 👋
 
-Estudiante avanzado de Ingeniería en Sistemas de Información, apasionado por el desarrollo de software, las bases de datos y la inteligencia artificial. 
+Estudiante avanzado de Ingeniería en Sistemas de Información, apasionado por el desarrollo de software y el potencial de los datos para resolver problemas complejos y tomar decisiones informadas. Mi enfoque técnico se divide en dos grandes áreas:
+*   ☕ **Desarrollo Backend:** Creación de aplicaciones robustas y escalables utilizando **Java** y **C#**.
+*   🤖 **Ciencia de Datos e IA:** Análisis de datos y entrenamiento de modelos de **Machine Learning** utilizando **Python**.
+
 ### 🔭 Sobre mí
 - 🏢 Actualmente estudio en la: **Universidad Tecnológica Nacional** en **Rosario**
 - 🧠 Aprendiendo: **Inteligencia Artificial - Backups, Restore, Replicación, Alta disponibilidad y Performance en Bases de Datos** 
