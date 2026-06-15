@@ -18,6 +18,7 @@ Estudiante avanzado de Ingeniería en Sistemas de Información, apasionado por e
 
 #  📂 Proyectos
 ### [🎬Cinema Management System (Java + MySQL)](github.com/pecorarolucio/tpjava)
+<a href="https://github.com/pecorarolucio/tpjava">o</a>
 Desarrollo de una aplicación web que integra un panel administrativo para el control total de la cartelera (CRUD de películas, funciones y salas) y flujo de compra de entradas para clientes, así como una sección para poder hacer reseñas sobre las películas.
 
 ### [🍽️ Sistema de Gestión de un Restaurante (Angular + Node/Express)](github.com/chipcasla/utn-dsw)
