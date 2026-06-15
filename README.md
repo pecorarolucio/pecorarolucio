@@ -3,9 +3,7 @@
 Estudiante avanzado de Ingeniería en Sistemas de Información, apasionado por el desarrollo de software y el potencial de los datos para resolver problemas complejos y tomar decisiones informadas. 
 
 ### 🔭 Sobre mí
-- 🏢 Actualmente estudio en la: **Universidad Tecnológica Nacional** en **Rosario**
-- ☕ **Desarrollo Backend:** Creación de aplicaciones robustas y escalables utilizando **Java** y **C#**.
-- 🤖 **Ciencia de Datos e IA:** Análisis de datos y entrenamiento de modelos de **Machine Learning** utilizando **Python**, **IBM SSPS (Modeler y Statistics)**.
+- 🏢 Actualmente estudio en la: **Universidad Tecnológica Nacional** en **Rosario**. Tengo 30/36 materias aprobadas, con un progreso de carrera del 83%.
 
 ---
 
@@ -14,8 +12,13 @@ Estudiante avanzado de Ingeniería en Sistemas de Información, apasionado por e
 `Angular` `Bootstrap` `TypeScript` `JavaScript`
 
 ### ⚙️ Backend
+Creación de aplicaciones robustas y escalables utilizando:
 `Node.js` `Express.js` `Java` `.NET` `C#` `Entity Framework` `JWT`  `MySQL` 
- 
+
+### 🤖 Ciencia de Datos
+Análisis de datos y entrenamiento de modelos de **Machine Learning**
+`Python (Pandas, Scikit-learn, Seaborn)`, `IBM SPSS (Modeler y Statistics)`
+
 ---
 
 #  📂 Proyectos
